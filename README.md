@@ -1,2 +1,2 @@
 # Instagram-Feed-Interface
-## This project is a copy of Instagram Feed build with React-Native
+## This project is a copy of Instagram Feed built with React-Native
